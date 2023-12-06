@@ -1,0 +1,38 @@
+header{
+    display: block;
+    text-align: center;
+    position: absolute top;
+color: white;
+background-color: grey;
+padding: 20px;
+font-family: Arial;
+font-size: large;
+background-image: url(https://3.bp.blogspot.com/-HY5pwU0Oko8/U1P9vomgZWI/AAAAAAAACqU/-uSLJZ1nBJE/s1600/background.jpg);
+}
+
+body{
+    color: white;
+    background-color: rgb(57, 66, 75);
+    font-size: 15px;
+    background-image: url(https://t3.ftcdn.net/jpg/03/91/46/10/360_F_391461057_5P0BOWl4lY442Zoo9rzEeJU0S2c1WDZR.jpg);
+}
+article{
+    text-align: center;
+    align-content: center;
+}
+video{ 
+    margin-top: 60px;
+    margin-left: 15%;
+    border-radius: 5%;}
+
+footer{
+   
+    position: absolute  bottom 0;
+    background-color: gray;
+    padding: 20px;
+    background-image: url(https://3.bp.blogspot.com/-HY5pwU0Oko8/U1P9vomgZWI/AAAAAAAACqU/-uSLJZ1nBJE/s1600/background.jpg);
+}
+h1{font-size: 20px;}
+h2{font-size: 20px;}
+h3{font-size: 20px;}
+h4{font-size: 20px;}
